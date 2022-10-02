@@ -1,0 +1,23 @@
+reviewers:
+  - andrewballantyne
+  - abhinandan13jan
+  - debsmita1
+  - divyanshiGupta
+  - christianvogt
+  - invincibleJai
+  - jerolimov
+  - karthikjeeyar
+  - rohitkrai03
+  - rottencandy
+  - sahil143
+  - vikram-raj
+approvers:
+  - divyanshiGupta
+  - invincibleJai
+  - jerolimov
+  - karthikjeeyar
+  - rohitkrai03
+  - sahil143
+  - vikram-raj
+labels:
+  - component/telemetry
